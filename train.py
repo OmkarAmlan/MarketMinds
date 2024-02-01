@@ -1,7 +1,5 @@
 import pandas as pd 
-import matplotlib.pyplot as plt 
-import datetime
-from datetime import date, time
+from datetime import date
 import yfinance as yf
 import streamlit as st 
 import numpy as np
